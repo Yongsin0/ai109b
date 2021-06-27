@@ -1,1 +1,1 @@
-![image]()
+![image](https://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/1.jpg)
