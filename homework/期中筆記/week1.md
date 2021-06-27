@@ -1,4 +1,4 @@
-![image](http://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/1.jpg)
+![image](https://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/1.jpg)
 ![image](https://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/2.jpg)
 ![image](https://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/3.jpg)
 ![image](https://github.com/Yongsin0/ai109b/blob/main/homework/ai-image/3-1.jpg)
